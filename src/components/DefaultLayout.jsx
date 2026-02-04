@@ -8,6 +8,7 @@ function DefaultLayout() {
         <>
     <Navbar/>
     <Outlet/>
+    <main></main>
     <footer>IL MIO FOOTER</footer>
         </>
     )
